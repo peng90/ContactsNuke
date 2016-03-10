@@ -3,7 +3,7 @@
 //  ContactsFrameworkDemo
 //
 //  Created by Peng Xie on 2/9/16.
-//  Copyright © 2016 CogentIBS. All rights reserved.
+//  Copyright © 2016 Peng Xie. All rights reserved.
 //
 
 import UIKit
